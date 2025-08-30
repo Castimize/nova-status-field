@@ -1,5 +1,5 @@
 {
-    "name": "wesselperik/nova-status-field",
+    "name": "castimize/nova-status-field",
     "description": "A Laravel Nova field for displaying statuses.",
     "keywords": [
         "laravel",
